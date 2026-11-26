@@ -43,37 +43,37 @@
 
 يعتمد النموذج على **Star Schema**: جدول حقائق مركزي مرتبط بجداول الأبعاد (المنطقة، السنة، القطاع)، مما يجعل الفلترة سريعة والمقاييس نظيفة.
 
-🖼️ ![ صورة نموذج البيانات ](screens/data_model.jpg)
+ ![ صورة نموذج البيانات ](screens/data_model.jpg)
 
 ## 📊 صفحات الداشبورد
 
 ### 1️⃣ النظرة العامة وما قبل/بعد الذكاء الاصطناعي
-🖼️ ![ page_1 global_overview ](screens/p1_global_overview.jpg)
+ ![ page_1 global_overview ](screens/p1_global_overview.jpg)
 
 نظرة شاملة على اتجاه القوى العاملة عالمياً من 2020 إلى 2026، مع مقارنة الفترة قبل تبنّي الذكاء الاصطناعي وبعده.
 
 ### 2️⃣ القطاعات وخطر الأتمتة
-🖼️ ![ page_2 industry_and_risk ](screens/p2_industry_and_risk.jpg)
+ ![ page_2 industry_and_risk ](screens/p2_industry_and_risk.jpg)
 
 تفصيل لخطر الأتمتة والاستبدال عبر القطاعات لتحديد الأكثر عرضة.
 
 ### 3️⃣ التأثير الجغرافي ومصر مقابل العالم
-🖼️ ![ page_3 geo_and_egypt ](screens/p3_geo_and_egypt.jpg)
+ ![ page_3 geo_and_egypt ](screens/p3_geo_and_egypt.jpg)
 
 مقارنة التأثير بين المناطق، ووضع مصر جنباً إلى جنب مع الصورة العالمية.
 
 ### 4️⃣ النوع (الجنس) واستبدال العمالة
-🖼️ ![ page_4 gender_workforce ](screens/p4_gender_workforce.jpg)
+ ![ page_4 gender_workforce ](screens/p4_gender_workforce.jpg)
 
 دراسة كيف يؤثر الاستبدال على الفئات المختلفة من حيث النوع داخل سوق العمل.
 
 ### 5️⃣ المهارات وإعادة التأهيل والسياسات
-🖼️ ![ page_5 reskilling_and_police ](screens/p5_reskilling_and_police.jpg)
+ ![ page_5 reskilling_and_police ](screens/p5_reskilling_and_police.jpg)
 
 استكشاف دور المهارات وبرامج إعادة التأهيل والسياسات في مواجهة التغيّر الذي يقوده الذكاء الاصطناعي.
 
 ### 6️⃣ تبنّي أدوات الذكاء الاصطناعي والتسريحات وتوازن العمالة
-🖼️ ![ page_6 tools_and_layoffs](screens/p6_tools_and_layoffs.jpg)
+ ![ page_6 tools_and_layoffs](screens/p6_tools_and_layoffs.jpg)
 
 ربط تبنّي أدوات الذكاء الاصطناعي بالتسريحات وبالتوازن العام بين الوظائف المفقودة والمستحدثة.
 
